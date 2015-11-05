@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "title": "The Blade Itself",
+    "year": 2006,
+    "author": "Joe Abercrombie"
+}, {
+    "id": 3,
+    "title": "The Witcher",
+    "year": 1986,
+    "author": "Andrzej Sapkowski"
+}, {
+    "id": 2,
+    "title": "Reaper Man",
+    "year": 1991,
+    "author": "Terry Pratchett"
+}, {
+    "id": 4,
+    "title": "The Dark Tower I: The Gunslinger",
+    "year": 1982,
+    "author": "Stephen Edwin King"
+}];
